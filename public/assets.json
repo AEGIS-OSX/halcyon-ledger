@@ -1,37 +1,37 @@
 {
   "logo": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/halcyon-ledger/cleo/1784927977330-logo.png",
+    "alt": "A minimalist, flat vector logo mark for Halcyon Ledger. It uses a geometric abstraction of a ledger in Halcyon Slate #4A7FA5 and Ledger Brass #C9A96E against the Canvas #0F1117 background, conveying i",
     "width": 1024,
     "height": 1024
   },
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/halcyon-ledger/cleo/1784927839278-hero.png",
+    "alt": "A composed, low-angle shot of a high-end financial workstation in a private bank setting. The image uses the locked palette of #0F1117 and #4A7FA5 with brass accents to convey institutional trust and ",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/halcyon-ledger/cleo/1784927831962-feature_1.png",
+    "alt": "A macro shot of a physical ledger page with precise data and a 'RECONCILED' stamp in Halcyon Slate #4A7FA5. It establishes the brand's authority and focus on reconciliation through a tactile, institut",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/halcyon-ledger/cleo/1784927838034-feature_2.png",
+    "alt": "A macro shot of a heavy brass ledger weight on archival paper, symbolizing the permanence and authority of the audit trail. The palette uses Ledger Brass #C9A96E and Halcyon Slate #4A7FA5 accents agai",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/halcyon-ledger/cleo/1784927844275-feature_3.png",
+    "alt": "A technical, composed shot of a server interface representing ERP connectivity. The deep navy environment and muted blue data streams align with the Halcyon Ledger institutional palette, while the bra",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/halcyon-ledger/cleo/1784928097435-social_proof.png",
+    "alt": "A composed, low-angle shot of a dark oak desk featuring a muted blue ledger and a brass lamp. The image establishes an institutional, trustworthy atmosphere that aligns with the 'back office of a priv",
     "width": 1200,
     "height": 800
   }
